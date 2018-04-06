@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-06T11:14:30.920Z</updated>
+  <updated>2018-04-06T13:42:14.572Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>12345</title>
+    <link href="http://yoursite.com/2018/04/06/12345-2/"/>
+    <id>http://yoursite.com/2018/04/06/12345-2/</id>
+    <published>2018-04-06T13:42:14.000Z</published>
+    <updated>2018-04-06T13:42:14.572Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>12345</title>
+    <link href="http://yoursite.com/2018/04/06/12345-1/"/>
+    <id>http://yoursite.com/2018/04/06/12345-1/</id>
+    <published>2018-04-06T13:41:19.000Z</published>
+    <updated>2018-04-06T13:41:19.300Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>categories</title>
@@ -45,11 +73,11 @@
   </entry>
   
   <entry>
-    <title>““你好，第一遍博客”</title>
-    <link href="http://yoursite.com/2018/04/05/%E2%80%9C%E2%80%9C%E4%BD%A0%E5%A5%BD%EF%BC%8C%E7%AC%AC%E4%B8%80%E9%81%8D%E5%8D%9A%E5%AE%A2%E2%80%9D/"/>
-    <id>http://yoursite.com/2018/04/05/““你好，第一遍博客”/</id>
+    <title>12345</title>
+    <link href="http://yoursite.com/2018/04/05/12345/"/>
+    <id>http://yoursite.com/2018/04/05/12345/</id>
     <published>2018-04-05T05:57:54.000Z</published>
-    <updated>2018-04-06T13:27:03.730Z</updated>
+    <updated>2018-04-06T13:40:48.454Z</updated>
     
     <summary type="html">
     
@@ -57,7 +85,7 @@
     
     </summary>
     
-      <category term="这是我的" scheme="http://yoursite.com/categories/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84/"/>
+      <category term="这是我的，编程" scheme="http://yoursite.com/categories/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%EF%BC%8C%E7%BC%96%E7%A8%8B/"/>
     
     
       <category term="JAVA" scheme="http://yoursite.com/tags/JAVA/"/>

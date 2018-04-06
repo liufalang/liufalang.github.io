@@ -3,6 +3,24 @@
   
     
     <entry>
+      <title>12345</title>
+      <link href="/2018/04/06/12345-2/"/>
+      <url>/2018/04/06/12345-2/</url>
+      <content type="html"><![CDATA[]]></content>
+      
+      
+    </entry>
+    
+    <entry>
+      <title>12345</title>
+      <link href="/2018/04/06/12345-1/"/>
+      <url>/2018/04/06/12345-1/</url>
+      <content type="html"><![CDATA[]]></content>
+      
+      
+    </entry>
+    
+    <entry>
       <title>categories</title>
       <link href="/2018/04/06/categories/"/>
       <url>/2018/04/06/categories/</url>
@@ -21,14 +39,14 @@
     </entry>
     
     <entry>
-      <title>““你好，第一遍博客”</title>
-      <link href="/2018/04/05/%E2%80%9C%E2%80%9C%E4%BD%A0%E5%A5%BD%EF%BC%8C%E7%AC%AC%E4%B8%80%E9%81%8D%E5%8D%9A%E5%AE%A2%E2%80%9D/"/>
-      <url>/2018/04/05/%E2%80%9C%E2%80%9C%E4%BD%A0%E5%A5%BD%EF%BC%8C%E7%AC%AC%E4%B8%80%E9%81%8D%E5%8D%9A%E5%AE%A2%E2%80%9D/</url>
+      <title>12345</title>
+      <link href="/2018/04/05/12345/"/>
+      <url>/2018/04/05/12345/</url>
       <content type="html"><![CDATA[]]></content>
       
       <categories>
           
-          <category> 这是我的 </category>
+          <category> 这是我的，编程 </category>
           
       </categories>
       
@@ -57,9 +75,9 @@
     
     <entry>
       <title></title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      <content type="html"><![CDATA[<p>title: 分类测试<br>categories:</p><ul><li>hexo</li></ul>]]></content>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      <content type="html"><![CDATA[<p>layout: page<br>title: 标签测试<br>date: 2018-04-06 19:10:52<br>tags:</p><ul><li>Testing</li><li>Another Tag<br>cots: false</li></ul>]]></content>
     </entry>
     
     <entry>
@@ -71,9 +89,9 @@
     
     <entry>
       <title></title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      <content type="html"><![CDATA[<p>layout: page<br>title: 标签测试<br>date: 2018-04-06 19:10:52<br>tags:</p><ul><li>Testing</li><li>Another Tag<br>cots: false</li></ul>]]></content>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      <content type="html"><![CDATA[<p>title: 分类测试<br>categories:</p><ul><li>hexo</li></ul>]]></content>
     </entry>
     
   
