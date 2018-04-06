@@ -41,16 +41,16 @@
     
     <entry>
       <title></title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       <content type="html"><![CDATA[<p>layout: tags<br>title: tags</p>]]></content>
     </entry>
     
     <entry>
-      <title></title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      <content type="html"><![CDATA[<p>layout: tags<br>title: tags</p>]]></content>
+      <title>Tagcloud</title>
+      <link href="/tags/tags.html"/>
+      <url>/tags/tags.html</url>
+      <content type="html"><![CDATA[]]></content>
     </entry>
     
   
