@@ -46,5 +46,12 @@
       <content type="html"><![CDATA[<p>layout: tags<br>title: tags</p>]]></content>
     </entry>
     
+    <entry>
+      <title></title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      <content type="html"><![CDATA[<p>layout: tags<br>title: tags</p>]]></content>
+    </entry>
+    
   
 </search>
