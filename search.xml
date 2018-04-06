@@ -42,10 +42,10 @@
   
     
     <entry>
-      <title>categories</title>
+      <title></title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
-      <content type="html"><![CDATA[]]></content>
+      <content type="html"><![CDATA[<p>title: �������<br>categories:</p><ul><li>hexo</li></ul>]]></content>
     </entry>
     
     <entry>
@@ -56,17 +56,10 @@
     </entry>
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index-1.html"/>
-      <url>/categories/index-1.html</url>
-      <content type="html"><![CDATA[]]></content>
-    </entry>
-    
-    <entry>
-      <title>��ǩ����</title>
+      <title></title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      <content type="html"><![CDATA[]]></content>
+      <content type="html"><![CDATA[<p>layout: page<br>title: ��ǩ����<br>date: 2018-04-06 19:10:52<br>tags:</p><ul><li>Testing</li><li>Another Tag<br>cots: false</li></ul>]]></content>
     </entry>
     
   
