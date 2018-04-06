@@ -49,12 +49,20 @@
     <link href="http://yoursite.com/2018/04/05/%E2%80%9C%E2%80%9C%E4%BD%A0%E5%A5%BD%EF%BC%8C%E7%AC%AC%E4%B8%80%E9%81%8D%E5%8D%9A%E5%AE%A2%E2%80%9D/"/>
     <id>http://yoursite.com/2018/04/05/““你好，第一遍博客”/</id>
     <published>2018-04-05T05:57:54.000Z</published>
-    <updated>2018-04-06T10:49:55.724Z</updated>
+    <updated>2018-04-06T13:27:03.730Z</updated>
     
     <summary type="html">
     
+      这是我的第一篇博客，请认证对待
+    
     </summary>
     
+      <category term="这是我的" scheme="http://yoursite.com/categories/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84/"/>
+    
+    
+      <category term="JAVA" scheme="http://yoursite.com/tags/JAVA/"/>
+    
+      <category term="BOKE" scheme="http://yoursite.com/tags/BOKE/"/>
     
   </entry>
   
