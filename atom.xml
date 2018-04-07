@@ -94,26 +94,4 @@
     
   </entry>
   
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/04/05/hello-world/"/>
-    <id>http://yoursite.com/2018/04/05/hello-world/</id>
-    <published>2018-04-05T05:05:07.268Z</published>
-    <updated>2018-04-06T13:21:15.802Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
 </feed>
