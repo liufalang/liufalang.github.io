@@ -3,6 +3,15 @@
   
     
     <entry>
+      <title>tags</title>
+      <link href="/2018/04/07/tags/"/>
+      <url>/2018/04/07/tags/</url>
+      <content type="html"><![CDATA[]]></content>
+      
+      
+    </entry>
+    
+    <entry>
       <title>12345</title>
       <link href="/2018/04/06/12345-2/"/>
       <url>/2018/04/06/12345-2/</url>
@@ -65,13 +74,6 @@
   
     
     <entry>
-      <title></title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      <content type="html"><![CDATA[<p>layout: page<br>title: 标签测试<br>date: 2018-04-06 19:10:52<br>tags:</p><ul><li>Testing</li><li>Another Tag<br>cots: false</li></ul>]]></content>
-    </entry>
-    
-    <entry>
       <title>about</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -79,10 +81,17 @@
     </entry>
     
     <entry>
-      <title></title>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      <content type="html"><![CDATA[]]></content>
+    </entry>
+    
+    <entry>
+      <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
-      <content type="html"><![CDATA[<p>title: 分类测试<br>categories:</p><ul><li>hexo</li></ul>]]></content>
+      <content type="html"><![CDATA[]]></content>
     </entry>
     
   
